@@ -1,4 +1,4 @@
-# React + Vite
+# Voice Enabled Task Tracker
 
 The Voice-Enabled Task Tracker is a full-stack productivity application built to create, manage, and track tasks using natural language voice commands. The frontend is developed with React.js, styled using TailwindCSS, and integrates the React Speech Recognition library to convert spoken input into structured task data such as title, priority, due date, and status.
 
@@ -20,10 +20,12 @@ This project demonstrates seamless integration of voice processing, natural-lang
 ## Frontend Setup (React + Vite)
 
 cd frontend
+
 npm install
+
 npm run dev
 
-## Tech Tack used in Frontend
+## Tech Stack used in Frontend
 
 - React (Vite)
 - TailwindCSS (Vite)
@@ -34,10 +36,12 @@ npm run dev
 ## Backend Setup (Node + Express + MongoDB)
 
 cd backend
+
 npm install
+
 npm run start or npm start
 
-## Tech Tack used in Backtend
+## Tech Stack used in Backtend
 
 - Node.js
 - Express.js
